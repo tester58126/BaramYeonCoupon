@@ -8,12 +8,9 @@
 - .Net Framework 4.7.2
 - Fiddler 4 / Fiddler Extension – Request to Code
 
-## 빌드
-- 코드 다운로드 후 개발환경 맞춰서 빌드하세요.
+## 배포
+- 하지않습니다.
 
-## 다운로드
-- 코드 서명 문제로 해킹 프로그램으로 의심 받는 것으로 인해 배포를 중단합니다.
-- 특히 프로그램 관련 지식이 부족한 사람한테는 소스 코드를 같이 배포해도 해킹 프로그램으로 리뷰해버려서 의미가 없을 것 같습니다.
 
 ## 사용법
 1. `coupon.txt` 파일에 `쿠폰코드`를 한줄에 하나씩 작성하고 저장한다.
@@ -45,7 +42,3 @@
 3. demo.
 
 ![image](https://github.com/tester58126/BaramYeonCoupon/blob/main/image/3.gif)
-
-## 
-📧 tester58126@gmail.com
-
