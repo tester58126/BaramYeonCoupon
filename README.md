@@ -30,6 +30,9 @@
 - httpwebrequest를 이용해서 `https://mcoupon.nexon.com/baramy` 서버와 직접 통신하므로 `App Player`/`Internet Browser`등이 필요없다.
 - 내가 쓰려고 내가 만든 프로그램. (WPF C# 5일차 2021-11-25)
 
+## 변경 이력
+- 2021-11-25 
+
 ## 시연
 1. `coupon.txt` 및 `character.txt` 작성 및 저장.
 
