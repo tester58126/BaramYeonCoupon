@@ -27,7 +27,7 @@
 ## 알아두면 좋은점
 - 걸리는 시간은 프로그램 실행 환경에 따라, 웹 서버 상태에 따라 상이합니다. ( 실제 테스트 결과 쿠폰 10개 1-2초 X, 쿠폰 하나당 0.5초 미만 ) 
 - 작성한 정보는 서버에서 `회원코드 유효성` -> `쿠폰코드 유효성` -> `사용 가능 여부` -> 프로그램에서 `서버 및 캐릭터 이름 일치 여부` 순서로 검증한다.
-- httpwebrequest를 이용해서 `https://mcoupon.nexon.com/baramy` 서버와 직접 통신하므로 `App Player`/'PC Client'/`Internet Browser`등이 필요없다.
+- httpwebrequest를 이용해서 `https://mcoupon.nexon.com/baramy` 서버와 직접 통신하므로 `App Player`/`PC Client`/`Internet Browser`등이 필요없다.
 - 내가 쓰려고 내가 만든 프로그램. (WPF C# 5일차 2021-11-25)
 
 ## 변경 이력
