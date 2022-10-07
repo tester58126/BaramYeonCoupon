@@ -1,5 +1,5 @@
 # 개돼지 사료 배급기
-- `App Player`/`Internet Browser`등 아무것도 필요없는 모바일 게임 바람의나라:연 쿠폰 아이템 자동 수령 프로그램
+- `App Player`/`Internet Browser`등 아무것도 필요없는 모바일 게임 바람의나라:연 쿠폰 등록 프로그램
 
 ## 개발환경
 - Visual Studio 2019 Community
